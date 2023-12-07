@@ -45,3 +45,5 @@
 - `/examples/genericComponentExample.js`: Пример того как компоненты, использующие <script setup>, теперь могут принимать параметры обобщенных типов через атрибут generic
 
 - `/examples/defineEmitsExample.js`: Пример более эргономичного способа объявления эмитов с помощью типов.
+
+- `/examples/defineSlotsExample.js`: Пример использования нового макроса defineSlots.
