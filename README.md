@@ -47,3 +47,5 @@
 - `/examples/defineEmitsExample.js`: Пример более эргономичного способа объявления эмитов с помощью типов.
 
 - `/examples/defineSlotsExample.js`: Пример использования нового макроса defineSlots.
+
+- `/examples/destructuringPropsExample.js`: Пример реактивной деструктуризации пропсов.
