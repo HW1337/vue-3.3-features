@@ -49,3 +49,5 @@
 - `/examples/defineSlotsExample.js`: Пример использования нового макроса defineSlots.
 
 - `/examples/destructuringPropsExample.js`: Пример реактивной деструктуризации пропсов.
+
+- `/examples/defineModelExample.js`: Пример использования нового макроса defineModel.
