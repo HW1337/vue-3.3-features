@@ -54,4 +54,4 @@
 
 - `/examples/defineModelExample.js`: Пример использования нового макроса defineModel.
 
-- `/examples/toRefExample.js`: Пример использования улучшенного toRef.
+- `/examples/toRefExample.js`: Пример использования улучшенного toRef и toValue.
