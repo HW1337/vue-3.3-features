@@ -28,6 +28,8 @@
 
 8. **Поддержка импорта исходного кода JSX**: Теперь Vue поддерживает указание пространства имен JSX через опцию jsxImportSource в TypeScript.
 
+9. **defineOptions**: Новый макрос defineOptions позволяет объявлять опции компонента непосредственно в <script setup>, не требуя отдельного блока <script>.
+
 ## Начало работы
 
 1. Склонируйте репозиторий на свой локальный компьютер:
@@ -51,3 +53,5 @@
 - `/examples/destructuringPropsExample.js`: Пример реактивной деструктуризации пропсов.
 
 - `/examples/defineModelExample.js`: Пример использования нового макроса defineModel.
+
+- `/examples/toRefExample.js`: Пример использования улучшенного toRef.
