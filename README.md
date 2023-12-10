@@ -55,3 +55,5 @@
 - `/examples/defineModelExample.js`: Пример использования нового макроса defineModel.
 
 - `/examples/toRefExample.js`: Пример использования улучшенного toRef и toValue.
+
+- `/examples/jsxImportSourceExample.js`: Пример использования улучшенного jsxImportSource.
