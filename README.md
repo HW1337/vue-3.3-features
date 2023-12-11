@@ -57,3 +57,5 @@
 - `/examples/toRefExample.js`: Пример использования улучшенного toRef и toValue.
 
 - `/examples/jsxImportSourceExample.js`: Пример использования улучшенного jsxImportSource.
+
+- `/examples/defineOptionsExample.js`: Пример использования нового макроса defineOptions.
